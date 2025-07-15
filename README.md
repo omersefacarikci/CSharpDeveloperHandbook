@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/kalinotesbanner.gif" alt="Banner" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/csharpbanner.gif" alt="Banner" />
 </p>
 <h1 align="center">C Sharp Notes</h1>
 
