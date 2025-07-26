@@ -8,7 +8,6 @@ A structured and up-to-date collection of my C# programming notes.
 This repository includes core concepts, code snippets, examples, and practical tips to support learning and development in C#. Ideal for both study and reference during projects.
 </p>
 <p align="center">
-  # C# Learning Series
 
 This project contains 7 essential topics that document my learning process with the C# programming language. Each file focuses on a different subject. By working through each one, I have **completed** the foundational concepts of C#.
 
