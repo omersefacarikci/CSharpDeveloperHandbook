@@ -14,13 +14,13 @@ This project contains 7 essential topics that document my learning process with 
 ## 📁 File List and Descriptions
 
 1. **Main.cs**  
-   I learned how to print messages to the console using `Console.WriteLine` and receive user input with `Console.ReadLine`. I have completed it.
+   I learned how to print messages to the console using `Console.WriteLine` and receive user input with `Console.Read`. I have completed it.
 
 2. **Variables.cs**  
    I learned how to declare and use variables such as `int`, `string`, `bool`, and `double`. I have completed it.
 
 3. **Loops.cs**  
-   I practiced the use of loops like `for`, `while`, and `do-while`. I have completed it.
+   I practiced the use of loops like `for`, `while`. I have completed it.
 
 4. **Array.cs**  
    I learned how to declare arrays, access elements, and manipulate array data. I have completed it.
