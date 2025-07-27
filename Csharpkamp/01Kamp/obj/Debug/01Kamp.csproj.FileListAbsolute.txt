@@ -1,0 +1,7 @@
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\bin\Debug\01Kamp.exe.config
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\bin\Debug\01Kamp.exe
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\bin\Debug\01Kamp.pdb
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\obj\Debug\01Kamp.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\obj\Debug\01Kamp.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\obj\Debug\01Kamp.exe
+C:\Users\Ömer Sefa\source\repos\Csharpkamp\01Kamp\obj\Debug\01Kamp.pdb
