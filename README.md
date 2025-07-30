@@ -13,26 +13,32 @@ This project contains 7 essential topics that document my learning process with 
 
 ## 📁 File List and Descriptions
 
-1. **Main.cs**  
+ **Main.cs**  
    I learned how to print messages to the console using `Console.WriteLine` and receive user input with `Console.Read`. I have completed it.
 
-2. **Variables.cs**  
+ **Variables.cs**  
    I learned how to declare and use variables such as `int`, `string`, `bool`, and `double`. I have completed it.
 
-3. **Loops.cs**  
+ **Loops.cs**  
    I practiced the use of loops like `for`, `while`. I have completed it.
 
-4. **Array.cs**  
+ **Array.cs**  
    I learned how to declare arrays, access elements, and manipulate array data. I have completed it.
 
-5. **Foreach.cs**  
+ **Foreach.cs**  
    I understood how to use the `foreach` loop with arrays and collections. I have completed it.
 
-6. **LoopsProject.cs**  
+ **LoopsProject.cs**  
    I created mini-projects using loops and conditional structures to reinforce what I’ve learned. I have completed it.
 
-7. **Database.cs**  
+ **Database.cs**  
    I learned how to connect C# with an SQL Server database and perform basic operations like `SELECT`, `INSERT`, `UPDATE`, and `DELETE`. I have completed it.
+
+**Layer.cs**
+Page Description: Tour Management System – Statistics Panel
+This page represents a statistics dashboard built with Entity Framework in a WinForms (Windows Forms) application. The purpose of this page is to display summarized, real-time data from the tourism system’s database such as locations, guides, tour capacities, and prices.
+
+Each colored box on the screen represents a different statistical metric retrieved dynamically using EF queries.
 
 ---
 
