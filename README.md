@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/csharpbanner.gif" alt="Banner" />
 </p>
-<h1 align="center">C# Notes</h1>
+<h1 align="center">C# Developer Handbook</h1>
 
 <p align="center">
 A structured and up-to-date collection of my C# programming notes.
