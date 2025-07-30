@@ -37,7 +37,7 @@ This project contains 7 essential topics that document my learning process with 
 **Layer.cs**
 Page Description: Tour Management System – Statistics Panel
 This page represents a statistics dashboard built with Entity Framework in a WinForms (Windows Forms) application. The purpose of this page is to display summarized, real-time data from the tourism system’s database such as locations, guides, tour capacities, and prices.
-
+<img src="https://github.com/omersefacarikci/CSharpDeveloperHandbook/blob/main/st.png" alt="Banner" />
 Each colored box on the screen represents a different statistical metric retrieved dynamically using EF queries.
 
 ---
