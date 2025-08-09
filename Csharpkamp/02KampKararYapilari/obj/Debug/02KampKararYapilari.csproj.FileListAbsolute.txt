@@ -1,7 +1,0 @@
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\bin\Debug\02KampKararYapilari.exe.config
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\bin\Debug\02KampKararYapilari.exe
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\bin\Debug\02KampKararYapilari.pdb
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\obj\Debug\02KampKararYapilari.csproj.AssemblyReference.cache
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\obj\Debug\02KampKararYapilari.csproj.CoreCompileInputs.cache
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\obj\Debug\02KampKararYapilari.exe
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\02KampKararYapilari\obj\Debug\02KampKararYapilari.pdb
