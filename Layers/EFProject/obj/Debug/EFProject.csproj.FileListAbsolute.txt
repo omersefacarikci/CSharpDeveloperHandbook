@@ -1,7 +1,0 @@
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.csproj.AssemblyReference.cache
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.Form1.resources
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.Properties.Resources.resources
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.csproj.GenerateResource.cache
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.csproj.CoreCompileInputs.cache
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.FrmLocation.resources
-C:\Users\Ömer Sefa\source\repos\Layers\EFProject\obj\Debug\EFProject.Statistics.resources

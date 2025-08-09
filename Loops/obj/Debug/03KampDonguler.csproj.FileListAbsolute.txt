@@ -1,8 +1,0 @@
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\bin\Debug\03KampDonguler.exe.config
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\bin\Debug\03KampDonguler.exe
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\bin\Debug\03KampDonguler.pdb
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\obj\Debug\03KampDonguler.csproj.AssemblyReference.cache
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\obj\Debug\03KampDonguler.csproj.CoreCompileInputs.cache
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\obj\Debug\03KampDonguler.exe
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\obj\Debug\03KampDonguler.pdb
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\03KampDonguler\obj\Debug\03KampDonguler.exe.config

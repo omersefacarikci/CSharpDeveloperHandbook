@@ -1,8 +1,0 @@
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\bin\Debug\Loops in Practice.exe.config
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\bin\Debug\Loops in Practice.exe
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\bin\Debug\Loops in Practice.pdb
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\obj\Debug\Loops in Practice.csproj.AssemblyReference.cache
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\obj\Debug\Loops in Practice.csproj.CoreCompileInputs.cache
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\obj\Debug\Loops in Practice.exe
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\obj\Debug\Loops in Practice.pdb
-C:\Users\Ömer Sefa\source\repos\Csharpkamp\Loops in Practice\obj\Debug\Loops in Practice.exe.config
