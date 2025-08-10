@@ -1,0 +1,8 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\bin\Debug\Decision Structures.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\bin\Debug\Decision Structures.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\bin\Debug\Decision Structures.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\obj\Debug\Decision Structures.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\obj\Debug\Decision Structures.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\obj\Debug\Decision Structures.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\obj\Debug\Decision Structures.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Decision Structures\obj\Debug\Decision Structures.exe.config
