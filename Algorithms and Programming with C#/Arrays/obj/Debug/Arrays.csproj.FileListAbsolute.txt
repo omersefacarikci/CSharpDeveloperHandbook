@@ -1,0 +1,8 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\bin\Debug\Arrays.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\obj\Debug\Arrays.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Arrays\obj\Debug\Arrays.exe.config
