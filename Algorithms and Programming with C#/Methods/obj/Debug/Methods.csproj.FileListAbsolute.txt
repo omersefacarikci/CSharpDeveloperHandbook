@@ -1,0 +1,8 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\bin\Debug\Methods.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\bin\Debug\Methods.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\bin\Debug\Methods.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\obj\Debug\Methods.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\obj\Debug\Methods.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Methods\obj\Debug\Methods.exe.config
