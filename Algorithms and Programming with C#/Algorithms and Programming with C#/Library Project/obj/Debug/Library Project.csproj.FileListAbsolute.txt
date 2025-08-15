@@ -1,8 +1,0 @@
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\bin\Debug\Library Project.exe.config
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\bin\Debug\Library Project.exe
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\bin\Debug\Library Project.pdb
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\obj\Debug\Library Project.csproj.AssemblyReference.cache
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\obj\Debug\Library Project.csproj.CoreCompileInputs.cache
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\obj\Debug\Library Project.exe
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\obj\Debug\Library Project.pdb
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Library Project\obj\Debug\Library Project.exe.config

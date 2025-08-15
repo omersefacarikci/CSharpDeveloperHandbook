@@ -1,8 +1,0 @@
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\bin\Debug\Variables.exe.config
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\bin\Debug\Variables.exe
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\bin\Debug\Variables.pdb
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\obj\Debug\Variables.exe
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\obj\Debug\Variables.pdb
-C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Variables\obj\Debug\Variables.exe.config
