@@ -1,0 +1,8 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\bin\Debug\Extra Structures.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\bin\Debug\Extra Structures.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\bin\Debug\Extra Structures.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\obj\Debug\Extra Structures.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\obj\Debug\Extra Structures.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\obj\Debug\Extra Structures.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\obj\Debug\Extra Structures.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Extra Structures\obj\Debug\Extra Structures.exe.config
