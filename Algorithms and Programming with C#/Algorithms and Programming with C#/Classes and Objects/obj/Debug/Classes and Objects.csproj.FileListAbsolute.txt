@@ -1,0 +1,7 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\obj\Debug\Classes and Objects.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\obj\Debug\Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\bin\Debug\Classes and Objects.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\bin\Debug\Classes and Objects.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\bin\Debug\Classes and Objects.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\obj\Debug\Classes and Objects.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Classes and Objects\obj\Debug\Classes and Objects.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\bin\Debug\Text Document Operations.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\bin\Debug\Text Document Operations.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\bin\Debug\Text Document Operations.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\obj\Debug\Text Document Operations.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\obj\Debug\Text Document Operations.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\obj\Debug\Text Document Operations.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\obj\Debug\Text Document Operations.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Text Document Operations\obj\Debug\Text Document Operations.exe.config

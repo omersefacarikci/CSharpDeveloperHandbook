@@ -1,0 +1,8 @@
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\bin\Debug\Loops.exe.config
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\bin\Debug\Loops.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\bin\Debug\Loops.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\obj\Debug\Loops.exe
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\obj\Debug\Loops.pdb
+C:\Users\Ömer Sefa\source\repos\Algorithms and Programming with C#\Loops\obj\Debug\Loops.exe.config
