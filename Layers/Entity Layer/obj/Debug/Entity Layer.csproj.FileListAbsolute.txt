@@ -1,0 +1,12 @@
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\Entity Layer.dll.config
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\Entity Layer.dll
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\Entity Layer.pdb
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\EntityFramework.dll
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\EntityFramework.xml
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\obj\Debug\Entity Layer.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\obj\Debug\Entity Layer.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\obj\Debug\Entity L.5666A332.Up2Date
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\obj\Debug\Entity Layer.dll
+C:\Users\Ömer Sefa\source\repos\Layers\Entity Layer\obj\Debug\Entity Layer.pdb
