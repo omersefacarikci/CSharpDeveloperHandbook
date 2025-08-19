@@ -1,0 +1,12 @@
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\bin\Debug\File Operations.exe.config
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\bin\Debug\File Operations.exe
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\bin\Debug\File Operations.pdb
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File Operations.csproj.AssemblyReference.cache
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File_Operations.Form1.resources
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File_Operations.Properties.Resources.resources
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File Operations.csproj.GenerateResource.cache
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File Operations.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File Operations.exe
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File Operations.pdb
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File Operations.exe.config
+C:\Users\Ömer Sefa\source\repos\File Operations\File Operations\obj\Debug\File_Operations.Form2.resources
